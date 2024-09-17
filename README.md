@@ -19,4 +19,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhavtyagi-13/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anubhavtyagi-13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anubhavtyagi-13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anubhavtyagi-13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
