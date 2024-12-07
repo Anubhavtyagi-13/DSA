@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anubhavtyagi-13/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anubhavtyagi-13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -31,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anubhavtyagi-13/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anubhavtyagi-13/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
